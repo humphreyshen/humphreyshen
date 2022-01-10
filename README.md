@@ -1,6 +1,6 @@
 ### Hi there, I'm Humphrey Shen 
 
-## I'm a Son, Boyfriend, Aviation Lover and Data Engineer.
+## I'm a Son, Boyfriend, Aviation Lover and Data Lover.
 
 - 🔭 I'm a beginner of Github, I would like to share my code in the future.
 - 🌱 I’m currently learning everything 🤣

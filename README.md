@@ -9,7 +9,7 @@
 - 👯 I’m looking to share code with others and lear from others.
 - 🌱 我正在學習非常多的東西 🤣
 - 🥅 2022 Goals: Study MS in Business Analytics & Learn more Python and SQL.
-- ⚡ Fun fact: I love to watch movie, play musice and read book.
+- ⚡ Fun fact: I love to watch movie, play music and read book.
 
 <br />
 

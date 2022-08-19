@@ -3,9 +3,6 @@
 ## I'm a Son, Boyfriend, Aviation Lover and Data Lover.  
 我是一位兒子、男朋友、航空與數據愛好者
 
-- 🔭 I'm a beginner of Github, I would like to share my code in the future.
-- 🔭 我才剛加入Github大家庭不久，未來也會透過這裡與大家分享我的Code。
-
 - 🌱 I’m currently learning everything 🤣
 - 🌱 我正在學習非常多的東西 🤣
 

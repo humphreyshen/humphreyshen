@@ -3,8 +3,11 @@
 ## I'm a Son, Boyfriend, Aviation Lover and Data Lover.
 
 - 🔭 I'm a beginner of Github, I would like to share my code in the future.
+- 🔭 我才剛加入Github大家庭不久，未來也會透過這裡與大家分享我的Code。
 - 🌱 I’m currently learning everything 🤣
+- 🌱 我正在學習非常多的東西 🤣
 - 👯 I’m looking to share code with others and lear from others.
+- 🌱 我正在學習非常多的東西 🤣
 - 🥅 2022 Goals: Study MS in Business Analytics & Learn more Python and SQL.
 - ⚡ Fun fact: I love to watch movie, play musice and read book.
 

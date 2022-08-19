@@ -11,6 +11,7 @@
 - 🥅 2022 Goals: Study MS in Business Analytics & Learn more Python and SQL.
 - 🥅 2022 目標: 希望申請商業數據分析碩士班、學習更多Python和SQL
 - ⚡ Fun fact: I love to watch movie, play music and read book.
+- ⚡ 有趣的事實: 我喜歡看電影、玩樂器和閱讀。
 
 <br />
 

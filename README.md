@@ -1,7 +1,7 @@
 ### Hi there, I'm Humphrey Shen 
 嗨嗨！我是韓佛瑞(當然是化名)
-## I'm a Son, Boyfriend, Aviation Lover and Data Lover.  
-我是一位兒子、男朋友、航空與數據愛好者
+## I'm an Aviation Lover and Data Lover.  
+我是一位航空與數據愛好者
 
 - 🌱 I’m currently learning everything 🤣
 - 🌱 我正在學習非常多的東西 🤣
